@@ -1,6 +1,11 @@
 # Sliding-Puzzle-Solver
 a fast Sliding Puzzle solver!
 
+怎麼跑這個程式碼
+小心得(?)
+Prerequisite
+Python 3.13.1
+
 ![image](Images/upload_7f21dfecd34c84120d4119dc617d05ea.png)
 
 ![image](Images/upload_11b36fc704f1ca14f87924b7f715a0b5.png)
