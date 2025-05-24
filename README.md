@@ -1,7 +1,10 @@
 # Sliding-Puzzle-Solver
 a fast Sliding Puzzle solver!
+
 ![image](Images/upload_7f21dfecd34c84120d4119dc617d05ea.png)
+
 ![image](Images/upload_11b36fc704f1ca14f87924b7f715a0b5.png)
+
 |      testcases       |    time     |
 |  ------------------  | ----------- |
 |    testcases/0.in    |  0.007566   |
